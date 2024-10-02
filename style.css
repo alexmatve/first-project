@@ -7,3 +7,7 @@
 .header_big-size:hover {
     color: #ff6666;
 }
+
+.header__text {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
